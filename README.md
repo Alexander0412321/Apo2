@@ -1,8 +1,8 @@
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
 
-# Titulo del Proyecto
+# mod menu con Joption
 
-Un párrafo de la descripción del proyecto va aquí.
+JOptionPane es una clase de java que muestra cuadros de diálogo y que podemos utilizar como alternativa a la clase Scanner.
 
 ## Empezando
 
