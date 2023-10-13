@@ -72,6 +72,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 ## Autores
 
 * **Gustavo Sánchez** 
+* **Deiner Coral Timana**
 
 
 ## Licencia
