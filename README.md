@@ -63,12 +63,6 @@ public class TablasDeMultiplicar {
     }
 }
 
-Explique qué prueban estas pruebas y por qué.
-
-```
-Give an example
-```
-
 ### Y pruebas de estilo de codificación.
 
 Explique qué prueban estas pruebas y por qué.
