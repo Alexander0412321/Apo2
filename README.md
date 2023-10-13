@@ -63,6 +63,8 @@ public class TablasDeMultiplicar {
     }
 }
 
+
+
 ### Y pruebas de estilo de codificación.
 
 Explique qué prueban estas pruebas y por qué.
@@ -101,4 +103,32 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 * Un consejo para cualquiera cuyo código se haya utilizado
 * Inspiración
 * etc
+
+## divisiones entre numeros
+import javax.swing.JOptionPane;
+
+public class DivisionConJOptionPane {
+    public static void main(String[] args) {
+        try {
+            // Pedir el primer número al usuario
+            String input1 = JOptionPane.showInputDialog("Introduce el primer número:");
+            double numero1 = Double.parseDouble(input1);
+
+            // Pedir el segundo número al usuario
+            String input2 = JOptionPane.showInputDialog("Introduce el segundo número:");
+            double numero2 = Double.parseDouble(input2);
+
+            // Realizar la división
+            if (numero2 != 0) {
+                double resultado = numero1 / numero2;
+                JOptionPane.showMessageDialog(null, "El resultado de la división es: " + resultado);
+            } else {
+                JOptionPane.showMessageDialog(null, "No es posible dividir por cero.");
+            }
+        } catch (NumberFormatException e) {
+            JOptionPane.showMessageDialog(null, "Por favor, introduce números válidos.");
+            "ejemplo de como ahcer un codigo de divisiones"
+        }
+    }
+}
 
