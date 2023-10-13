@@ -13,8 +13,7 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 Qué cosas necesitas para instalar el software y cómo instalarlas
 
 ```
-
-Pasos para instalar el software:
+// Pasos para instalar el software
 1. Ubique el archivo instalador en su computadora.
 2. Haga doble clic en el archivo instalador para iniciar el proceso de instalación.
 3. Siga las instrucciones en pantalla para completar el proceso de instalación. Esto puede incluir aceptar el acuerdo de licencia del software, elegir la ubicación de instalación y seleccionar cualquier opción adicional.
@@ -48,7 +47,7 @@ Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para u
 
 Explicar cómo ejecutar las pruebas automatizadas para este sistema.
 
-### Dividir en pruebas de principio a fin
+### tablas de multiplicar con Joption 
 
 Explique qué prueban estas pruebas y por qué.
 
