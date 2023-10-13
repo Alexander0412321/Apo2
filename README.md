@@ -114,8 +114,7 @@ public class DivisionConJOptionPane {
             String input1 = JOptionPane.showInputDialog("Introduce el primer número:");
             double numero1 = Double.parseDouble(input1);
 
-            // Pedir el segundo número al usuario
-            String input2 = JOptionPane.showInputDialog("Introduce el segundo número:");
+            
             double numero2 = Double.parseDouble(input2);
 
             // Realizar la división
