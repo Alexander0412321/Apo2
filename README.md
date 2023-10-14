@@ -1,3 +1,4 @@
+ develop_Deiner
 ![Logo Java](https://blog.codmind.com/content/images/size/w2000/2021/01/banner-5.jpg)))
 
 #  Menu con Joption
@@ -65,7 +66,7 @@ Y repetir
 until finished
 ```
 
-Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
+
 
 ## Ejecutando las pruebas
 
@@ -127,13 +128,14 @@ public class Calculadora {
 
 ## Despliegue 
 
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
+
 
 
 ## Construido con
 
 Dropwizard : el marco web utilizado
 Maven - Gestión de dependencias
+
 
 
 ## Versionado
@@ -145,6 +147,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 * **Deiner Coral Timana**
 * **Alexander Lopez**
 * **Nicolas Madroñero**
+* **Gustavo profesor**
 
 
 ## Licencia
@@ -156,33 +159,12 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 * Un consejo para cualquiera cuyo código se haya utilizado
 * Inspiración
 * Fortaleza
-* Felicidad 
+* Alegria
+
 * etc
 
 ## divisiones entre numeros
-import javax.swing.JOptionPane;
-
-public class DivisionConJOptionPane {
-    public static void main(String[] args) {
-        try {
-            // Pedir el primer número al usuario
-            String input1 = JOptionPane.showInputDialog("Introduce el primer número:");
-            double numero1 = Double.parseDouble(input1);
-
-            
-            double numero2 = Double.parseDouble(input2);
-
-            // Realizar la división
-            if (numero2 != 0) {
-                double resultado = numero1 / numero2;
-            hola nuevamente
-            } else {
-                JOptionPane.showMessageDialog(null, "No es posible dividir por cero.");
-            }
-        } catch (NumberFormatException e) {
-            JOptionPane.showMessageDialog(null, "Por favor, introduce números válidos.");
-            "ejemplo de como ahcer un codigo de divisiones"
-        }
+hola mias amigos nuevos
     }
 }
 
