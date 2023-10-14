@@ -1,4 +1,3 @@
-![Logo Java](https://assets.stickpng.com/images/62a86f4b14a38cce0c371c15.png)))
 
 #  Menu con Joption
 
