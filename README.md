@@ -1,6 +1,5 @@
-![Logo Java]
 
-#  menu con Joption
+#  Menu con Joption
 
 import javax.swing.JOptionPane;
 
@@ -28,9 +27,9 @@ public class Menu {
         }
     }
 }
-## Empezando
+## Explicacion menu
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
+en el anterior  menu nos abrira una ventana en la cuales tendermosd las opciones 1, 2 y 3 opcion de salir de menu y opcion invalidad de comando 
 
 ### Requisitos previos
 
@@ -89,12 +88,40 @@ public class TablasDeMultiplicar {
 
 
 
-### Y pruebas de estilo de codificación.
-
-Explique qué prueban estas pruebas y por qué.
+### claculadora
 
 ```
-Give an example
+import javax.swing.JOptionPane;
+
+public class Calculadora {
+    public static void main(String[] args) {
+        String num1 = JOptionPane.showInputDialog(null, "Ingrese el primer número:");
+        String num2 = JOptionPane.showInputDialog(null, "Ingrese el segundo número:");
+        String operacion = JOptionPane.showInputDialog(null, "Ingrese la operación a realizar (+, -, *, /):");
+        
+        double resultado = 0;
+        
+        switch (operacion) {
+            case "+":
+                resultado = Double.parseDouble(num1) + Double.parseDouble(num2);
+                break;
+            case "-":
+                resultado = Double.parseDouble(num1) - Double.parseDouble(num2);
+                break;
+            case "*":
+                resultado = Double.parseDouble(num1) * Double.parseDouble(num2);
+                break;
+            case "/":
+                resultado = Double.parseDouble(num1) / Double.parseDouble(num2);
+                break;
+            default:
+                JOptionPane.showMessageDialog(null, "Operación inválida");
+                break;
+        }
+        
+        JOptionPane.showMessageDialog(null, "El resultado de la operación es: " + resultado);
+    }
+}
 ```
 
 ## Despliegue (Deployment)
@@ -117,6 +144,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 * **Deiner Coral Timana**
 * **Alexander Lopez**
+* **Nicolas Madroñero**
 
 
 ## Licencia
