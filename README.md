@@ -144,7 +144,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 * **Deiner Coral Timana**
 * **Alexander Lopez**
-* **Nicolas Madroñero**
+
 
 
 ## Licencia
