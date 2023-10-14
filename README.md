@@ -133,7 +133,7 @@ public class Calculadora {
 
 Dropwizard : el marco web utilizado
 Maven - Gestión de dependencias
-visual studio code
+
 
 
 ## Versionado
