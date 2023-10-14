@@ -99,7 +99,7 @@ Give an example
 
 ## Despliegue (Deployment)
 
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
+
 
 
 ## Construido con
