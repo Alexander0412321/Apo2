@@ -121,7 +121,7 @@ public class DivisionConJOptionPane {
             // Realizar la división
             if (numero2 != 0) {
                 double resultado = numero1 / numero2;
-                JOptionPane.showMessageDialog(null, "El resultado de la división es: " + resultado);
+            hola nuevamente
             } else {
                 JOptionPane.showMessageDialog(null, "No es posible dividir por cero.");
             }
