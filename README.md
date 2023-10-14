@@ -70,7 +70,7 @@ until finished
 
 ## Ejecutando las pruebas
 
-
+Explicar cómo ejecutar las pruebas automatizadas para este sistema.
 
 ### tablas de multiplicar con Joption 
 
