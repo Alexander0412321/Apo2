@@ -1,6 +1,6 @@
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
 
-# mod menu con Joption
+#  menu con Joption
 
 import javax.swing.JOptionPane;
 
