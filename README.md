@@ -82,7 +82,7 @@ Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
 Dropwizard : el marco web utilizado
 Maven - Gestión de dependencias
-ROMA : se utiliza para generar canales RSS
+
 
 ## Versionado
 
