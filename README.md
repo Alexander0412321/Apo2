@@ -1,4 +1,4 @@
-![Logo Java](https://e7.pngegg.com/pngimages/954/503/png-clipart-european-cup-world-cup-trophy-european-cup-world-cup.png)
+![Logo Java]
 
 #  menu con Joption
 
