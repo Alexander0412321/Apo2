@@ -1,6 +1,6 @@
 ![Logo Java](https://assets.stickpng.com/images/62a86f4b14a38cce0c371c15.png)))
 
-#  menu con Joption
+#  Menu con Joption
 
 import javax.swing.JOptionPane;
 
@@ -28,7 +28,7 @@ public class Menu {
         }
     }
 }
-## explicacion menu
+## Explicacion menu
 
 en el anterior  menu nos abrira una ventana en la cuales tendermosd las opciones 1, 2 y 3 opcion de salir de menu y opcion invalidad de comando 
 
