@@ -41,7 +41,9 @@ Qué cosas necesitas para instalar el software y cómo instalarlas
 2. Haga doble clic en el archivo instalador para iniciar el proceso de instalación.
 3. Siga las instrucciones en pantalla para completar el proceso de instalación. Esto puede incluir aceptar el acuerdo de licencia del software, elegir la ubicación de instalación y seleccionar cualquier opción adicional.
 4. Espere a que se complete el proceso de instalación. Esto puede tardar varios minutos o más dependiendo del tamaño y la complejidad del software.
+5. Una vez que se complete la instalación, inicie el software para asegurarse de que funcione correctamente.
 
+Nota: Los pasos específicos para instalar un software pueden variar según el software y el sistema operativo que esté utilizando. Siempre consulte la documentación o el sitio web del software para obtener instrucciones específicas.
 
 
 ```
@@ -62,7 +64,7 @@ Y repetir
 until finished
 ```
 
-Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
+
 
 ## Ejecutando las pruebas
 
