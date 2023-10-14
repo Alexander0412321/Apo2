@@ -179,8 +179,7 @@ public class DivisionConJOptionPane {
                 JOptionPane.showMessageDialog(null, "No es posible dividir por cero.");
             }
         } catch (NumberFormatException e) {
-            JOptionPane.showMessageDialog(null, "Por favor, introduce números válidos.");
-            "ejemplo de como ahcer un codigo de divisiones"
+          
         }
     }
 }
