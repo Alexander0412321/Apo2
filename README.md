@@ -31,7 +31,7 @@ public class Menu {
 }
 ## Explicacion menu
 
-en el anterior menu nos abrira una ventana en la cual tendremos las opciones 1, 2 y 3 opcion de salir de menu y opcion invalidad de comando 
+
 
 ### Requisitos previos
 
