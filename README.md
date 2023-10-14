@@ -2,8 +2,32 @@
 
 # mod menu con Joption
 
-JOptionPane es una clase de java que muestra cuadros de diálogo y que podemos utilizar como alternativa a la clase Scanner.
+import javax.swing.JOptionPane;
 
+public class Menu {
+    public static void main(String[] args) {
+        String[] opciones = {"Opción 1", "Opción 2", "Opción 3", "Salir"};
+        int seleccion = JOptionPane.showOptionDialog(null, "Seleccione una opción", "Menú", JOptionPane.DEFAULT_OPTION, JOptionPane.PLAIN_MESSAGE, null, opciones, opciones[0]);
+        
+        switch (seleccion) {
+            case 0:
+                JOptionPane.showMessageDialog(null, "Ha seleccionado la opción 1");
+                break;
+            case 1:
+                JOptionPane.showMessageDialog(null, "Ha seleccionado la opción 2");
+                break;
+            case 2:
+                JOptionPane.showMessageDialog(null, "Ha seleccionado la opción 3");
+                break;
+            case 3:
+                JOptionPane.showMessageDialog(null, "Ha salido del menú");
+                break;
+            default:
+                JOptionPane.showMessageDialog(null, "Opción inválida");
+                break;
+        }
+    }
+}
 ## Empezando
 
 Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
