@@ -87,6 +87,8 @@ public class TablasDeMultiplicar {
     }
 }
 
+
+
 ### Y pruebas de estilo de codificación.
 
 Explique qué prueban estas pruebas y por qué.
@@ -104,7 +106,7 @@ Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
 Dropwizard : el marco web utilizado
 Maven - Gestión de dependencias
-ROMA : se utiliza para generar canales RSS
+
 
 ## Versionado
 
@@ -112,10 +114,9 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* **Gustavo Sánchez** 
 * **Deiner Coral Timana**
 * **Alexander Lopez**
-* **Nicolas Madroñero**
+
 
 ## Licencia
 
@@ -125,5 +126,34 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 
 * Un consejo para cualquiera cuyo código se haya utilizado
 * Inspiración
+* Fortaleza
+* Felicidad 
 * etc
+
+## divisiones entre numeros
+import javax.swing.JOptionPane;
+
+public class DivisionConJOptionPane {
+    public static void main(String[] args) {
+        try {
+            // Pedir el primer número al usuario
+            String input1 = JOptionPane.showInputDialog("Introduce el primer número:");
+            double numero1 = Double.parseDouble(input1);
+
+            
+            double numero2 = Double.parseDouble(input2);
+
+            // Realizar la división
+            if (numero2 != 0) {
+                double resultado = numero1 / numero2;
+            hola nuevamente
+            } else {
+                JOptionPane.showMessageDialog(null, "No es posible dividir por cero.");
+            }
+        } catch (NumberFormatException e) {
+            JOptionPane.showMessageDialog(null, "Por favor, introduce números válidos.");
+            "ejemplo de como ahcer un codigo de divisiones"
+        }
+    }
+}
 
