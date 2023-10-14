@@ -35,7 +35,7 @@ en el anterior menu nos abrira una ventana en la cual tendremos las opciones 1, 
 
 ### Requisitos previos
 
-Qué cosas necesitas para instalar el software y cómo instalarlas
+
 
 ```
 // Pasos para instalar el software
