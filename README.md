@@ -30,7 +30,7 @@ public class Menu {
 }
 ## explicacion menu
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
+en el anterior  menu nos abrira una ventana en la cuales tendermosd las opciones 1, 2 y 3 opcion de salir de menu y opcion invalidad de comando 
 
 ### Requisitos previos
 
