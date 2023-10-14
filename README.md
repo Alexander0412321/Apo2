@@ -125,7 +125,7 @@ public class Calculadora {
 }
 ```
 
-## Despliegue (Deployment)
+## Despliegue 
 
 Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
