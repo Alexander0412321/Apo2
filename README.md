@@ -161,28 +161,7 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 * etc
 
 ## divisiones entre numeros
-import javax.swing.JOptionPane;
-
-public class DivisionConJOptionPane {
-    public static void main(String[] args) {
-        try {
-            // Pedir el primer número al usuario
-            String input1 = JOptionPane.showInputDialog("Introduce el primer número:");
-            double numero1 = Double.parseDouble(input1);
-
-            
-            double numero2 = Double.parseDouble(input2);
-
-            // Realizar la división
-            if (numero2 != 0) {
-                double resultado = numero1 / numero2;
-            hola nuevamente
-            } else {
-                JOptionPane.showMessageDialog(null, "No es posible dividir por cero.");
-            }
-        } catch (NumberFormatException e) {
-          
-        }
+hola mias amigos nuevos
     }
 }
 
