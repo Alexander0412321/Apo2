@@ -93,38 +93,6 @@ public class TablasDeMultiplicar {
 ### claculadora
 
 ```
-import javax.swing.JOptionPane;
-
-public class Calculadora {
-    public static void main(String[] args) {
-        String num1 = JOptionPane.showInputDialog(null, "Ingrese el primer número:");
-        String num2 = JOptionPane.showInputDialog(null, "Ingrese el segundo número:");
-        String operacion = JOptionPane.showInputDialog(null, "Ingrese la operación a realizar (+, -, *, /):");
-        
-        double resultado = 0;
-        
-        switch (operacion) {
-            case "+":
-                resultado = Double.parseDouble(num1) + Double.parseDouble(num2);
-                break;
-            case "-":
-                resultado = Double.parseDouble(num1) - Double.parseDouble(num2);
-                break;
-            case "*":
-                resultado = Double.parseDouble(num1) * Double.parseDouble(num2);
-                break;
-            case "/":
-                resultado = Double.parseDouble(num1) / Double.parseDouble(num2);
-                break;
-            default:
-                JOptionPane.showMessageDialog(null, "Operación inválida");
-                break;
-        }
-        
-        JOptionPane.showMessageDialog(null, "El resultado de la operación es: " + resultado);
-    }
-}
-```
 
 ## Despliegue 
 
