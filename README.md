@@ -74,6 +74,19 @@ Explicar cómo ejecutar las pruebas automatizadas para este sistema.
 
 ### tablas de multiplicar con Joption 
 
+import javax.swing.JOptionPane;
+
+public class TablasDeMultiplicar {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            String tabla = "";
+            for (int j = 1; j <= 10; j++) {
+                tabla += i + " x " + j + " = " + (i * j) + "\n";
+            }
+            JOptionPane.showMessageDialog(null, tabla);
+        }
+    }
+}
 
 
 
