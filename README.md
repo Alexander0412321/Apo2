@@ -52,19 +52,7 @@ Nota: Los pasos específicos para instalar un software pueden variar según el s
 
 ### Instalación
 
-Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo.
 
-Di cuál será el paso.
-
-```
-Give the example
-```
-
-Y repetir
-
-```
-until finished
-```
 
 
 
