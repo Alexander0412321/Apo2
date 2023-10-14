@@ -156,7 +156,7 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 * Un consejo para cualquiera cuyo código se haya utilizado
 * Inspiración
 * Fortaleza
-
+* Alegria
 
 * etc
 
