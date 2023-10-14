@@ -90,7 +90,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 * **Gustavo Sánchez** 
 * **Deiner Coral Timana**
-
+* **Alexander Lopez**
 
 ## Licencia
 
