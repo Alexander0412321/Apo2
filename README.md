@@ -115,12 +115,7 @@ public class Calculadora {
                 resultado = Double.parseDouble(num1) / Double.parseDouble(num2);
                 break;
             default:
-                JOptionPane.showMessageDialog(null, "Operación inválida");
-                break;
-        }
-        
-        JOptionPane.showMessageDialog(null, "El resultado de la operación es: " + resultado);
-    }
+                
 }
 ```
 
